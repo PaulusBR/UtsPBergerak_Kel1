@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">UtsPBergerak</string>
+    <string name="nama_testing">Nama</string>
+    <string name="desc">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string-array name="data_name">
+        <item>M. Fatkhur Rahman Azis Samaloisa</item>
+        <item>Siska Septiyanah</item>
+        <item>M. Yoga Pradinata</item>
+        <item>Paulus Bonifasius Ricardo</item>
+        <item>Rehandoko Pratama</item>
+        <item>Jonathan Alfasya Putra</item>
+        <item>Viona Dillarendza</item>
+        <item>Vazla Annisya Rahmadila</item>
+        <item>M. Rizkiansyah</item>
+        <item>Asmi Naya Fitri</item>
+
+
+    </string-array>
+    <string-array name="data_desc">
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswi Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswi Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswi Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswa Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+        <item>Mahasiswi Universitas Sriwijaya - Fakultas Ilmu Komputer - Sistem Informasi</item>
+
+    </string-array>
+    <string-array name="data_alamat">
+        <item>Jalan Kudacuki No. 12, Palembang</item>
+        <item>Jalan Seihitam No. 4, Palembang</item>
+        <item>Jalan Kenduri Merah No. 19, Palembang </item>
+        <item>Jalan Mayor Zurbi Bustan No. 9, Palembang</item>
+        <item>Gg. Buntu Indralaya No. 7, Indralaya </item>
+        <item>Jalan Sekojo No. 11, Palembang</item>
+        <item>Gg. Mawar Merah No. 15, Indralaya</item>
+        <item>Jalan Kemang Manis No. 28, Bangka Belitung</item>
+        <item>Gg. Balak Seru No. 23, Indralaya</item>
+        <item>Gg. Salut Sulat No. 17, Indralaya</item>
+
+    </string-array>
+    <string-array name="data_email">
+        <item>azizsanctuary2017@gmail.com</item>
+        <item>siska.spt30@gmail.com</item>
+        <item>pradiyoga@gmail.com</item>
+        <item>bonifapro25@gmail.com</item>
+        <item>rehandokop373@gmail.com</item>
+        <item>natansyaputra@gmail.com</item>
+        <item>dillaviona@gmail.com</item>
+        <item>vaanra@gmail.com</item>
+        <item>mrizkiansyah@gmail.com</item>
+        <item>nayaasmi@gmail.com</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/img</item>
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+        <item>@drawable/img_7</item>
+        <item>@drawable/img_8</item>
+        <item>@drawable/img_9</item>
+
+
+    </integer-array>
+</resources>
